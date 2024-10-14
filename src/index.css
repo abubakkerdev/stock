@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #fde047;
+}
+
+.parent {
+  display: flex;
+  gap: 10px 7px;
+  flex-wrap: wrap;
+  padding: 5px 5px 0 5px;
+  justify-content: center;
+}
+
+.child {
+  width: 943px;
+  height: 450px;
+  overflow: hidden;
+}
